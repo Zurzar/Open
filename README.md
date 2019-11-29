@@ -1,1 +1,1 @@
-909C2010 906C2010 509C2010
+It is a simple code generator, complex sequence :)
