@@ -5,5 +5,4 @@ Hello World! Here is just some information about the changes I made to the versi
 - **Proxy parser** integrated! `HTTP (PUBLIC)`, `SOCKS4 (PUBLIC)`, `SOCKS5 (PUBLIC)`, and `SOCKS5 (ELITE)`.
 - Added information about the build, added decorations and links to the Telegram channel and Shop. 
 
-diff
-! text in orange Official Telegram Channel : https://t.me/ZugZangCraft
+Official Telegram Channel : `https://t.me/ZugZangCraft`
