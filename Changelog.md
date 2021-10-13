@@ -1,6 +1,6 @@
-Hello World
+Hello World! Here is just some information about the changes I made to the version OpenBullet2
 
-##### RuriLib
+ # RuriLib
 - Added `SET PROXY`, `SET USEPROXY`, `MARK` and `UNMARK` statements
 - URLEncode setting in Parse block
 - Support for 9kw.eu captcha provider and enterprise reCaptcha v2/v3
