@@ -6,3 +6,5 @@ Hello World! Here is just some information about the changes I made to the versi
 - Added information about the build, added decorations and links to the Telegram channel and Shop. 
 
 Official Telegram Channel : `https://t.me/ZugZangCraft`
+
+ #### Dear Friend! Automatic update was disabled by me! If you update you will lose all modules and my plugins! Updates will be released by me, but not often! Do not worry about this!
