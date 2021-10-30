@@ -21,5 +21,5 @@ Official Telegram Channel : `https://t.me/ZugZangCraft` (News, Free Softwares, P
 8. **I only sell all software for bitcoins**. I don't sell them for Paypal or Visa. If somewhere offer you to buy my software for Paypal, they are scammers.
 9. Buying and paying for bitcoins is your own business. I can't advise you where it's more profitable to buy bitcoins or how to do it the easiest way!
 10. Response time to personal messages is `1-3 days!` Please do **not hysterical** if I do not answer quickly! I may be traveling/sleeping or busy! If you are not happy with this - stay away from communication with me or from buying my programs! Please appreciate my time and your.
-11. All news or innovations are published on the telegram channel https://t.me/ZugZangCraft This is my only 1 telegram channel!
+11. All news or innovations are published on the telegram channel `https://t.me/ZugZangCraft` This is my only 1 telegram channel!
 12. **I am open to dialogue**. If you have `ideas`, `suggestions` or you know exactly what I do not know, please send me **private messages**.
