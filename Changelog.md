@@ -22,4 +22,4 @@ Official Telegram Channel : `https://t.me/ZugZangCraft` (News, Free, Promotional
 7. Since I regularly receive requests for software download links, there will be `no more links!` When you pay, you get an email with a link. **THE LINK IS PERMANENT**. If you `LOSE it`, you will `lose access` to download folder! Everything is very clear!
 8. I'm open to ideas/suggestions and dialogue!
 
-#### How do I check for updates? - About - Update button! Check for updates 1 or 2 a month. If there is a critical update you will be notified at startup! 
+###### How do I check for updates? - About - Update button! Check for updates 1 or 2 a month. If there is a critical update you will be notified at startup! 
