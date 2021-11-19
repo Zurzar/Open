@@ -12,7 +12,6 @@ Official Telegram Channel : `https://t.me/ZugZangCraft` (News, Free, Promotional
  ##### Dear Friend! Automatic update OpenBullet2 was Disabled by me! If you update OpenBullet2 Ifself, you will `LOSE ALL` my modification! I will be updated, but not very fast! Do not worry about this! 
  
  ##### License agreement (Mini)!
-
 1. You download and use my software as it is.
 2. You agree `not to modify`, `distribute` or `re-sell` my ideas/programs/videos or parts of my softwares!
 3. PROHIBITED TO PUBLISH OPENLY MY CONFIGS OR PARTS OF PROGRAMS. ALL PROGRAMS HAVE DIGITAL SIGNATURES AND YOUR WILL BE BLOCKED VERY FAST!
