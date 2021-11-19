@@ -23,3 +23,5 @@ Official Telegram Channel : `https://t.me/ZugZangCraft` (News, Free, Promotional
 8. I'm open to ideas/suggestions and dialogue!
 
 ##### How do I check for updates? - About - Update button! Check for updates 1 or 2 a month. If there is a critical update you will be notified at startup! 
+
+Free distribution of this modification is prohibited! This is a private modification for shoppy subscribers only. If you bought it NOT in OFFICIAL store - you were cheated by cheater and you will not have updates and support.
