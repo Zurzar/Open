@@ -29646,3 +29646,5 @@ nftset=/cloudflare.com/4#inet#fw4#vpn_domains
 nftset=/www.plex.tv/4#inet#fw4#vpn_domains
 nftset=/www.epicgames.com/4#inet#fw4#vpn_domains
 nftset=/gpicasso.com/4#inet#fw4#vpn_domains
+nftset=/bil.shara.tv/4#inet#fw4#vpn_domains
+nftset=/shara.tv/4#inet#fw4#vpn_domains
