@@ -43007,3 +43007,5 @@ nftset=/googleapis.com/4#inet#fw4#vpn_domains
 nftset=/googleusercontent.com/4#inet#fw4#vpn_domains
 nftset=/gstatic.com/4#inet#fw4#vpn_domains
 nftset=/l.google.com/4#inet#fw4#vpn_domains
+nftset=/link-center.net/4#inet#fw4#vpn_domains
+nftset=/direct-link.net/4#inet#fw4#vpn_domains
