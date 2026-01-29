@@ -43058,3 +43058,4 @@ nftset=/.net/4#inet#fw4#vpn_domains
 nftset=/.org/4#inet#fw4#vpn_domains
 nftset=/.biz/4#inet#fw4#vpn_domains
 nftset=/top4top.io/4#inet#fw4#vpn_domains
+nftset=/upload.ee/4#inet#fw4#vpn_domains
