@@ -43085,3 +43085,4 @@ nftset=/telegramusercontent.com/4#inet#fw4#vpn_domains
 nftset=/telegramstatic.com/4#inet#fw4#vpn_domains
 nftset=/.telegram.org/4#inet#fw4#vpn_domains
 nftset=/.t.me/4#inet#fw4#vpn_domains
+nftset=/chilkatsoft.com/4#inet#fw4#vpn_domains
