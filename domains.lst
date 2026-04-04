@@ -43077,6 +43077,7 @@ nftset=/cdn.telegram.org/4#inet#fw4#vpn_domains
 nftset=/graph.org/4#inet#fw4#vpn_domains
 nftset=/contest.dev/4#inet#fw4#vpn_domains
 nftset=/web.telegram.org/4#inet#fw4#vpn_domains
+nftset=/my.telegram.org/4#inet#fw4#vpn_domains
 nftset=/pluto.web.telegram.org/4#inet#fw4#vpn_domains
 nftset=/venus.web.telegram.org/4#inet#fw4#vpn_domains
 nftset=/aurora.web.telegram.org/4#inet#fw4#vpn_domains
