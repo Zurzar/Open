@@ -43094,3 +43094,4 @@ nftset=/aion.aspirine.su/4#inet#fw4#vpn_domains
 nftset=/tronscan.org/4#inet#fw4#vpn_domains
 nftset=/b-cdn.net/4#inet#fw4#vpn_domains
 nftset=/tronlink.org/4#inet#fw4#vpn_domains
+nftset=/cloudflarestream.com/4#inet#fw4#vpn_domains
