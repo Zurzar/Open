@@ -43096,3 +43096,4 @@ nftset=/b-cdn.net/4#inet#fw4#vpn_domains
 nftset=/tronlink.org/4#inet#fw4#vpn_domains
 nftset=/cloudflarestream.com/4#inet#fw4#vpn_domains
 nftset=/.cloudflareinsights.com/4#inet#fw4#vpn_domains
+nftset=/.cloudfront.net/4#inet#fw4#vpn_domains
